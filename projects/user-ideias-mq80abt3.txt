@@ -1,0 +1,37 @@
+Desenvolver um aplicativo que transforme qualquer outro aplicativo em código fonte e crie um instalador dele com base nesse código fonte. Produção
+
+Desenvolver um aplicativo para hacker 8 ball pool. Criado dentro do injetor DLL
+
+Desenvolver um aplicativo que tenha todas minhas criações. Produção
+
+Desenvolver Editor de vídeo (capcut) editor de áudio (fl studio) editor de imagem (canva ou fotoshop)
+
+Desenvolver um aplicativo que tenha IA integrada e ela consiga jogar qualquer jogo.
+
+
+
+Quero fazer um aplicativo que tenham essas 4 opções:
+
+1. Hiperautomação e Orquestração de Processos (RPA e IA)
+UiPath / SS&C Blue Prism / Automation Anywhere
+
+Função: Executam automação robótica de processos combinada com inteligência artificial para ler documentos, processar dados jurídicos ou financeiros e integrar sistemas legados sem API. Economizam milhares de horas de trabalho manual e mitigam erros operacionais graves.
+
+2. Integração de Sistemas e Automação de Fluxos Corporativos
+Workato / MuleSoft
+
+Função: Conectam centenas de aplicativos e bancos de dados corporativos em fluxos de trabalho em tempo real. Antecipam gargalos operacionais sincronizando dados de vendas, marketing, financeiro e suporte de forma instantânea.
+
+3. Gestão e Infraestrutura de Faturamento Global (Subscription Billing)
+Zuora / Maxio (antiga Chargify) / Solvimon
+
+Função: Automatizam faturamentos complexos, cobranças recorrentes baseadas em uso híbrido, reconhecimento de receita e conformidade fiscal global. O mecanismo de retenção inteligente (dunning) recupera pagamentos recusados automaticamente, prevenindo a perda involuntária de clientes.
+
+4. Gestão Unificada de Operações, RH e TI (All-in-One Enterprise)
+Rippling
+
+Função: Centraliza folhas de pagamento globais, administração de benefícios, gerenciamento de dispositivos físicos e controle de acessos a softwares em um único painel. Automatiza todo o processo de contratação (onboarding) e desligamento, configurando ou revogando permissões e enviando hardwares em minutos.
+
+
+
+Me faça as perguntas necessárias para chegarmos em um bom aplicativo que cumpra todos esses deveres
